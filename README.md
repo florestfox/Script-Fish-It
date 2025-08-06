@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/florestfox/Script-Fish-It">
     <img src="https://telegra.ph/file/10715f5ad0b92c955b69c.png">
-  <h3 align="center">Domge_MD</h3>
+  <h3 align="center">Script Fish It</h3>
   <p align="center">
     Created By Bsnl_18
  <p/>
