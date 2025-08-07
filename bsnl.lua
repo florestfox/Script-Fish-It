@@ -8,7 +8,7 @@ local UserInputService = game:GetService("UserInputService")
 local HttpService = game:GetService("HttpService")
 local TeleportService = game:GetService("TeleportService")
 
---- Aldytoi add new feature and variable 
+--- Bsnl_18 add new feature and variable 
 local replicatedStorage = game:GetService("ReplicatedStorage")
 local player = Players.LocalPlayer
 if not player or not replicatedStorage then return end
