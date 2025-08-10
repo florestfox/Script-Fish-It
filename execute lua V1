@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/florestfox/Script-Fish-It/refs/heads/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/florestfox/Script-Fish-It/refs/heads/main/main_V1.lua"))()
